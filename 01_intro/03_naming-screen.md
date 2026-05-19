@@ -3,19 +3,19 @@
 Maximum length: **6 characters**.
 
 ```
-Name the fallen human.              Imenuj palog čoveka.
+Name the fallen human.
 
-A   B   C   D   E   F   G           A   B   C   Č   Ć   D   Dž   Đ
-H   I   J   K   L   M   N           E   F   G   H   I   J   K    L
-O   P   Q   R   S   T   U           Lj  M   N   Nj  O   P   R    S
-V   W   X   Y   Z                   Š   T   U   V   Z   Ž
+A   B   C   D   E   F   G
+H   I   J   K   L   M   N
+O   P   Q   R   S   T   U
+V   W   X   Y   Z
 
-a   b   c   d   e   f   g           a   b   c   č   ć   d   dž   đ
-h   i   j   k   l   m   n           e   f   g   h   i   j   k    l
-o   p   q   r   s   t   u           lj  m   n   nj  o   p   r    s
-v   w   x   y   z                   š   t   u   v   z   ž
+a   b   c   d   e   f   g
+h   i   j   k   l   m   n
+o   p   q   r   s   t   u
+v   w   x   y   z
 
-Quit    Backspace    Done           Odustani    Izbriši    Završi
+Quit    Backspace    Done
 ```
 
 ## Allowed Names
@@ -29,7 +29,9 @@ Name
 ### Options to Proceed
 
 ```
-No      Yes             Ne      Da
+No
+
+Yes
 ```
 
 ### Special Names
@@ -70,13 +72,13 @@ Frisk
 stop you.)
 
 Napsta
-Blooky                      Bluki
+Blooky
 ```
 
 - `Papyru`, `Papiru`
 
 ```
-I'LL ALLOW IT!!!!           ДОЗВОЛИЋУ!!!!
+I'LL ALLOW IT!!!!
 
 Papyru
 Papiru
@@ -103,39 +105,39 @@ Woshua
 ```
 Is this name correct? ;)
 
-Aaron                           Aron
+Aaron
 ```
 
 - `Shyren`
 
 ```
-...?                            ...?
+...?
 
-Shyren                          Stirena
+Shyren
 ```
 
 - `Gerson`
 
 ```
-Wah ha ha! Why not?             Pha ha ha! Zašto da ne?
+Wah ha ha! Why not?
 
-Gerson                          Gerson
+Gerson
 ```
 
 - `Temmie`
 
 ```
-hOI!                            hOJ!
+hOI!
 
-Temmie                          Temi
+Temmie
 ```
 
 - `Alphy`
 
 ```
-Uh.... OK?                      Um.... OK?
+Uh.... OK?
 
-Alphy                           Alfi
+Alphy
 ```
 
 - `Metta`, `Mett`
@@ -177,9 +179,9 @@ Bpants
 - `Chara`
 
 ```
-The true name.          Korektno ime.       Adekvatno ime.      Ispravno/Istinito ime.
+The true name.
 
-Chara                   Čara                Kara
+Chara
 ```
 
 ## Dis-Allowed Names
@@ -190,7 +192,7 @@ Chara                   Čara                Kara
 I already CHOSE
 that name.
 
-Flowey                  Flavi
+Flowey
 ```
 
 - `Toriel`
@@ -200,57 +202,57 @@ I think you should
 think of your own
 name, my child.
 
-Toriel                  Torijal
+Toriel
 ```
 
 - `Sans`
 
 ```
-nope.                   noup.
+nope.
 
-Sans                    Sans
+Sans
 ```
 
 - `Undyne`
 
 ```
-Get your OWN name!      Nabavi SVOJE ime!       Nađi sebi SVOJE ime!
+Get your OWN name!
 
-Undyne                  Andajn
+Undyne
 ```
 
 - `Alphys`
 
 ```
-D-don't do that.        N-nemoj to uraditi.
+D-don't do that.
 
-Alphys                  Alfis
+Alphys
 ```
 
 - `Asgore`
 
 ```
-You cannot.             Ne dozvoljavam.         Zabranjujem.
+You cannot.
 
-Asgore                  Azgor
+Asgore
 ```
 
 - `Asriel`
 
 ```
-...                     ...
+...
 
-Asriel                  Azriel / Azrijal
+Asriel
 ```
 
 - `Gaster`
 
-The Game Re-Starts.
+The game re-starts.
 
 ### Options to Proceed
 
 ```
-Go back                 Idi nazad       Vrati se
+Go back
 ```
 
 ## On a Reset
