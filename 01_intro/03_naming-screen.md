@@ -36,7 +36,7 @@ Yes
 
 ### Special Names
 
-- `AAAAAA`
+#### `AAAAAA`
 
 ```
 Not very creative...?
@@ -44,7 +44,7 @@ Not very creative...?
 AAAAAA
 ```
 
-- `Mercy`, `Murder`
+#### `Mercy`, `Murder`
 
 ```
 That's a little on-
@@ -54,7 +54,7 @@ Mercy
 Murder
 ```
 
-- `Frisk`
+#### `Frisk`
 
 ```
 WARNING: This name will
@@ -64,7 +64,7 @@ Proceed anyway?
 Frisk
 ```
 
-- `Napsta`, `Blooky`
+#### `Napsta`, `Blooky`
 
 ```
 ............
@@ -75,7 +75,7 @@ Napsta
 Blooky
 ```
 
-- `Papyru`, `Papiru`
+#### `Papyru`, `Papiru`
 
 ```
 I'LL ALLOW IT!!!!
@@ -84,7 +84,7 @@ Papyru
 Papiru
 ```
 
-- `Jerry`
+#### `Jerry`
 
 ```
 Jerry.
@@ -92,7 +92,7 @@ Jerry.
 Jerry
 ```
 
-- `Woshua`
+#### `Woshua`
 
 ```
 Clean name.
@@ -100,7 +100,7 @@ Clean name.
 Woshua
 ```
 
-- `Aaron`
+#### `Aaron`
 
 ```
 Is this name correct? ;)
@@ -108,7 +108,7 @@ Is this name correct? ;)
 Aaron
 ```
 
-- `Shyren`
+#### `Shyren`
 
 ```
 ...?
@@ -116,7 +116,7 @@ Aaron
 Shyren
 ```
 
-- `Gerson`
+#### `Gerson`
 
 ```
 Wah ha ha! Why not?
@@ -124,7 +124,7 @@ Wah ha ha! Why not?
 Gerson
 ```
 
-- `Temmie`
+#### `Temmie`
 
 ```
 hOI!
@@ -132,7 +132,7 @@ hOI!
 Temmie
 ```
 
-- `Alphy`
+#### `Alphy`
 
 ```
 Uh.... OK?
@@ -140,7 +140,7 @@ Uh.... OK?
 Alphy
 ```
 
-- `Metta`, `Mett`
+#### `Metta`, `Mett`
 
 ```
 OOOOH!!! ARE YOU
@@ -150,7 +150,7 @@ Metta
 Mett
 ```
 
-- `Catty`
+#### `Catty`
 
 ```
 Bratty! Bratty!
@@ -159,7 +159,7 @@ That's MY name!
 Catty
 ```
 
-- `Bratty`
+#### `Bratty`
 
 ```
 Like, OK I guess.
@@ -167,7 +167,7 @@ Like, OK I guess.
 Bratty
 ```
 
-- `Bpants`
+#### `Bpants`
 
 ```
 You are really scraping the
@@ -176,7 +176,7 @@ bottom of the barrel.
 Bpants
 ```
 
-- `Chara`
+#### `Chara`
 
 ```
 The true name.
@@ -186,7 +186,7 @@ Chara
 
 ## Dis-Allowed Names
 
-- `Flowey`
+#### `Flowey`
 
 ```
 I already CHOSE
@@ -195,7 +195,7 @@ that name.
 Flowey
 ```
 
-- `Toriel`
+#### `Toriel`
 
 ```
 I think you should
@@ -205,7 +205,7 @@ name, my child.
 Toriel
 ```
 
-- `Sans`
+#### `Sans`
 
 ```
 nope.
@@ -213,7 +213,7 @@ nope.
 Sans
 ```
 
-- `Undyne`
+#### `Undyne`
 
 ```
 Get your OWN name!
@@ -221,7 +221,7 @@ Get your OWN name!
 Undyne
 ```
 
-- `Alphys`
+#### `Alphys`
 
 ```
 D-don't do that.
@@ -229,7 +229,7 @@ D-don't do that.
 Alphys
 ```
 
-- `Asgore`
+#### `Asgore`
 
 ```
 You cannot.
@@ -237,7 +237,7 @@ You cannot.
 Asgore
 ```
 
-- `Asriel`
+#### `Asriel`
 
 ```
 ...
@@ -245,7 +245,7 @@ Asgore
 Asriel
 ```
 
-- `Gaster`
+#### `Gaster`
 
 The game re-starts.
 
