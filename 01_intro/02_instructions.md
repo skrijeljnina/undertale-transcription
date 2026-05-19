@@ -1,13 +1,13 @@
 # Instructions
 
 ```
----Instruction---                   ---Uputstvo---
+---Instruction---
 
-[Z or ENTER] - Confirm              [Z(Y) ili ENTER] - Potvrdi
-[X or SHIFT] - Cancel               [X ili SHIFT] - Poništi
-[C or CTRL] - Menu (In-game)        [C ili CTRL] - Meni (U igri)
-[F4] - Fullscreen                   [F4] - Raširi sliku
-[Hold ESC] - Quit                   [Drži ESC] - Napusti igru
+[Z or ENTER] - Confirm
+[X or SHIFT] - Cancel
+[C or CTRL] - Menu (In-game)
+[F4] - Fullscreen
+[Hold ESC] - Quit
 
-When HP is 0, you lose.             Kada ŽVT dođe do 0, izgubio si.
+When HP is 0, you lose.
 ```
