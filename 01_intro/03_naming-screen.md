@@ -75,13 +75,12 @@ Napsta
 Blooky
 ```
 
-#### `Papyru`, `Papiru`
+#### `Papyru`
 
 ```
 I'LL ALLOW IT!!!!
 
 Papyru
-Papiru
 ```
 
 #### `Jerry`
